@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I'm Shaik Mohammed Ali Pasha  
+**Azure Administrator | AZ-104 Certified | SC-300 in Progress**
 
-<!--
-**Ali-cloud-admin/Ali-cloud-admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Certifications
+- Microsoft Certified: Azure Administrator Associate (AZ-104)  
+- Microsoft Certified: Azure Fundamentals (AZ-900)  
+- Microsoft Certified: Azure AI Fundamentals (AI-900)  
+- SC-300 Identity and Access Administrator (In Progress)  
 
-Here are some ideas to get you started:
+### 💻 Current Projects
+- Azure Home Lab Series – 10 hands-on labs covering Entra ID, RBAC, Policy, Networking, VMs, Storage, Backup, Monitoring, Bastion, and Hybrid Identity.  
+- Building a GitHub portfolio with documentation + screenshots for each lab.  
+- Practicing PowerShell + Az/Microsoft.Graph modules for automation.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 GitHub Portfolio
+-
+
+
+### 🌐 Connect
+- LinkedIn: [linkedin.com/in/shaik-mohammed-ali-pasha](https://linkedin.com/in/shaik-mohammed-ali-pasha)
