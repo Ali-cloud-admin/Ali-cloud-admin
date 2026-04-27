@@ -13,7 +13,16 @@
 - Practicing PowerShell + Az/Microsoft.Graph modules for automation.  
 
 ### 📂 GitHub Portfolio
--
+- [Lab 1 – RBAC & Resource Groups](https://github.com/Ali-cloud-admin/azure-rbac-resource-groups-lab.git)
+- [Lab 2 – Storage Account](https://github.com/Ali-cloud-admin/azure-storage-account-lab2.git)
+- [Lab 3 – VM Deployment](https://github.com/Ali-cloud-admin/azure-vm-lab3.git)
+- [Lab 4 – VNet Peering](https://github.com/Ali-cloud-admin/Azure-Vnet-Peering-Lab-04.git)
+- [Lab 5 – NSG Rules](https://github.com/Ali-cloud-admin/azure-vnet-peering-nsg-lab-5.git)
+- Lab 6 – Backup & Recovery (coming soon)
+- Lab 7 – Monitor & Log Analytics (coming soon)
+- Lab 8 – Bastion (coming soon)
+- Lab 9 – Hybrid Identity (coming soon)
+- Lab 10 – Policy Compliance (coming soon)
 
 
 ### 🌐 Connect
