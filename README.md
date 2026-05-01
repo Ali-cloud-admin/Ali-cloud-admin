@@ -18,7 +18,7 @@
 - [Lab 3 – VM Deployment](https://github.com/Ali-cloud-admin/azure-vm-lab3.git)
 - [Lab 4 – VNet Peering](https://github.com/Ali-cloud-admin/Azure-Vnet-Peering-Lab-04.git)
 - [Lab 5 – NSG Rules](https://github.com/Ali-cloud-admin/azure-vnet-peering-nsg-lab-5.git)
-- Lab 6 – Backup & Recovery (coming soon)
+- [Lab 6 – Backup (Configuration & Monitoring)](https://github.com/Ali-cloud-admin/Azure-backup-and-recovery-lab-06.git)
 - Lab 7 – Monitor & Log Analytics (coming soon)
 - Lab 8 – Bastion (coming soon)
 - Lab 9 – Hybrid Identity (coming soon)
