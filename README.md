@@ -19,8 +19,8 @@
 - [Lab 4 – VNet Peering](https://github.com/Ali-cloud-admin/Azure-Vnet-Peering-Lab-04.git)
 - [Lab 5 – NSG Rules](https://github.com/Ali-cloud-admin/azure-vnet-peering-nsg-lab-5.git)
 - [Lab 6 – Backup (Configuration & Monitoring)](https://github.com/Ali-cloud-admin/Azure-backup-and-recovery-lab-06.git)
-- Lab 7 – Monitor & Log Analytics (coming soon)
-- Lab 8 – Bastion (coming soon)
+- [Lab 7 – Monitor & Log Analytics](https://github.com/Ali-cloud-admin/azure-monitor-log-analytics-lab-07.git)
+- [Lab 8 – Azure Bastion](https://github.com/Ali-cloud-admin/azure-bastion-lab-08.git)
 - Lab 9 – Hybrid Identity (coming soon)
 - Lab 10 – Policy Compliance (coming soon)
 
