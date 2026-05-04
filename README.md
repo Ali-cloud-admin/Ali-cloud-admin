@@ -22,7 +22,7 @@
 - [Lab 7 – Monitor & Log Analytics](https://github.com/Ali-cloud-admin/azure-monitor-log-analytics-lab-07.git)
 - [Lab 8 – Azure Bastion](https://github.com/Ali-cloud-admin/azure-bastion-lab-08.git)
 - Lab 9 – Hybrid Identity (coming soon)
-- Lab 10 – Policy Compliance (coming soon)
+- [Lab 10 – Policy Compliance](https://github.com/Ali-cloud-admin/azure-policy-lab-10.git)
 
 
 ### 🌐 Connect
