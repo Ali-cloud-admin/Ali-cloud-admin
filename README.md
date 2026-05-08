@@ -21,7 +21,7 @@
 - [Lab 6 – Backup (Configuration & Monitoring)](https://github.com/Ali-cloud-admin/Azure-backup-and-recovery-lab-06.git)
 - [Lab 7 – Monitor & Log Analytics](https://github.com/Ali-cloud-admin/azure-monitor-log-analytics-lab-07.git)
 - [Lab 8 – Azure Bastion](https://github.com/Ali-cloud-admin/azure-bastion-lab-08.git)
-- Lab 9 – Hybrid Identity (coming soon)
+- [Lab 9 – Hybrid Identity](https://github.com/Ali-cloud-admin/azure-hybrid-identity-ADDS-EntraID-Connect-lab-09.git)
 - [Lab 10 – Policy Compliance](https://github.com/Ali-cloud-admin/azure-policy-lab-10.git)
 
 
