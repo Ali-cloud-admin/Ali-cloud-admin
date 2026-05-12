@@ -1,11 +1,22 @@
 ## 👋 Hi, I'm Shaik Mohammed Ali Pasha  
-**Azure Administrator | AZ-104 Certified | SC-300 in Progress**
+**Cloud & Identity Administration Portfolio focused on Azure infrastructure, hybrid identity, RBAC, monitoring, governance, and secure remote administration using Microsoft Azure, PowerShell, and Microsoft Entra ID.**
 
 ### 🎓 Certifications
 - Microsoft Certified: Azure Administrator Associate (AZ-104)  
 - Microsoft Certified: Azure Fundamentals (AZ-900)  
 - Microsoft Certified: Azure AI Fundamentals (AI-900)  
-- SC-300 Identity and Access Administrator (In Progress)  
+- Preparing for Microsoft SC-300: Identity and Access Administrator
+
+## Core Areas
+- Azure Administration
+- Hybrid Identity
+- Microsoft Entra ID
+- RBAC & Governance
+- Azure Monitoring
+- Azure Backup & Recovery
+- Network Security
+- PowerShell Administration
+- Infrastructure Troubleshooting  
 
 ### 💻 Current Projects
 - Azure Home Lab Series – 10 hands-on labs covering Entra ID, RBAC, Policy, Networking, VMs, Storage, Backup, Monitoring, Bastion, and Hybrid Identity.  
